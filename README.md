@@ -1,10 +1,7 @@
 ## Hi My Status are!
 
 <!--
-**SwayzyFN/SwayzyFN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**SwayzyFN/SwayzyFN** 
 - 🔭 I’m currently working on EmberBackend...
 - 🌱 I’m currently learning C++ ...
 - 👯 I’m looking to collaborate on anything...
